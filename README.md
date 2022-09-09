@@ -2,8 +2,7 @@
 
 
 
-![1da3663ce1d7d0f6098a31a667e862b4](https://user-images.githubusercontent.com/104290279/189406363-2f275d7c-bbd9-4caf-92c3-adbfce8f3aef.gif)
-
+![numbers code](https://user-images.githubusercontent.com/104290279/189412354-2a1756df-9440-4211-b6ca-3caca8b72e0a.gif)
 
 
 
