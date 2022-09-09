@@ -1,4 +1,4 @@
-![new](https://user-images.githubusercontent.com/104290279/189438805-197b85a7-8f08-4f28-9911-33f6dd8bbfbf.gif)
+![matrix](https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg)
 
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
