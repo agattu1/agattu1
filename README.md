@@ -5,12 +5,14 @@
 
 - 🌱 I’m currently learning **Computer Architecture**
 
+- 📝 I regularly write articles on [Medium](Medium)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/anirudh-gattu-802629186" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anirudh-gattu-802629186" height="30" width="40" /></a>
-<a href="https://instagram.com/https://instagram.com/a.n.irudh?igshid=ymmymta2m2y=" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://instagram.com/a.n.irudh?igshid=ymmymta2m2y=" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anirudh gattu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anirudh gattu" height="30" width="40" /></a>
+<a href="https://instagram.com/a.n.irudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.n.irudh" height="30" width="40" /></a>
 <a href="https://medium.com/@anirudhgattu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirudhgattu2002" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/playlist?list=plbesbeqigl2whbtcnjqzmiiovbauaddd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/playlist?list=plbesbeqigl2whbtcnjqzmiiovbauaddd5" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucvnxhsyk8tzwz3wzcwpyqsg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvnxhsyk8tzwz3wzcwpyqsg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,3 +23,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&locale=en" alt="agattu1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
+
