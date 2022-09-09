@@ -4,8 +4,8 @@
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-moe-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-moe-only)
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/youtube-light.svg)](https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5)
 [![website](./img/youtube-dark.svg)](https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5)
