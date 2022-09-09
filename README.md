@@ -1,16 +1,11 @@
+
+
+
+
+![nmedium gify](https://user-images.githubusercontent.com/104290279/189406012-f84ce90a-0767-4c22-acba-9e4f9504d0e6.gif)
+
+
+
+
+
 ### Hi there 👋
-
-<!--
-**agattu1/agattu1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
