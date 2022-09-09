@@ -34,7 +34,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)](https://github.com/agattu1/SQL-Database-GUI)
 **Database Application Model Youtube Content** [Banking Management Service](https://youtu.be/69JEpHb7kq4)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Programming-Hardware-Software-Systems)](https://github.com/agattu1/Programming-Hardware-Software-Systems)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Programming-Hardware-Software-Systems)](https://github.com/agattu1/Programming-Hardware-Software-Systems) **Game Youtube Content** [Missile Command Game Implemented](https://youtu.be/WrFHuJ73ank)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=CSV-File-Interpreter-GUI)](https://github.com/agattu1/CSV-File-Interpreter-GUI) **Web App Youtube Content** [File Analyzer Model in Python](https://youtu.be/Os7e-eFRlfg)
 
