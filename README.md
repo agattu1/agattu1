@@ -1,4 +1,5 @@
-![numbers code](https://user-images.githubusercontent.com/104290279/189412354-2a1756df-9440-4211-b6ca-3caca8b72e0a.gif)
+![new](https://user-images.githubusercontent.com/104290279/189438805-197b85a7-8f08-4f28-9911-33f6dd8bbfbf.gif)
+
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Thriving to learn based on pure interest in a utopian education system away from standardized exams, which create robots not genuine masterminds. #learn2grow</h3>
