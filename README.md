@@ -30,6 +30,3 @@
 <h1 align="center">Repositories</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)]
-
