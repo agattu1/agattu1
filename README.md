@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Thriving to learn based on pure interest in a utopian education system away from standardized exams, which create robots not genuine masterminds. #learn2grow</h3>
 
-- 🌱 I’m currently learning **Computer Architecture**
+- 🌱 I’m currently learning **Computer Architecture, Advanced Topics in Malware, & AI in Finance**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
