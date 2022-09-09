@@ -22,7 +22,7 @@
 
 
 
-<a img align="center" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" />
-</a>
-<a img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" />
-</a>
+<p>&nbsp;<a img align="center" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" />
+</a> ></p>
+<p><a img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" />
+</a>> </p>
