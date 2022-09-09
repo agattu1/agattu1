@@ -37,7 +37,10 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=CSV-File-Interpreter-GUI)](https://github.com/agattu1/CSV-File-Interpreter-GUI)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=GPU-Programming)](https://github.com/agattu1/GPU-Programming)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=GPU-Programming)](https://github.com/agattu1/GPU-Programming) **GPU Youtube Content**
+[GPU Programming Unity Assets using HLSL/C#](https://youtu.be/tdSqbbkS3Hc)
+
+[![GPU-Programming](https://img.youtube.com/vi/tdSqbbkS3Hc/0.jpg)](https://www.youtube.com/watch?v=tdSqbbkS3Hc)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Data-Structures-Algorithms)](https://github.com/agattu1/Data-Structures-Algorithms)
 
