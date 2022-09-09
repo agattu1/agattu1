@@ -30,3 +30,17 @@
 <h1 align="center">Repositories</h1> 1
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)](https://github.com/agattu1/SQL-Database-GUI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Programming-Hardware-Software-Systems)](https://github.com/agattu1/Programming-Hardware-Software-Systems)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=CSV-File-Interpreter-GUI)](https://github.com/agattu1/CSV-File-Interpreter-GUI)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=GPU-Programming)](https://github.com/agattu1/GPU-Programming)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Data-Structures-Algorithms)](https://github.com/agattu1/Data-Structures-Algorithms)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Object-Oriented-Programming)](https://github.com/agattu1/Object-Oriented-Programming)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Malware-Reverse-Engineering)](https://github.com/agattu1/Malware-Reverse-Engineering)
