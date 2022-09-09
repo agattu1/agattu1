@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
 
-<h1 align="center">Repositories</h1> 1
+<h1 align="center">Repositories</h1>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 
