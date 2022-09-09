@@ -2,7 +2,7 @@
 
 
 
-![nmedium gify](https://user-images.githubusercontent.com/104290279/189406012-f84ce90a-0767-4c22-acba-9e4f9504d0e6.gif)
+![1da3663ce1d7d0f6098a31a667e862b4](https://user-images.githubusercontent.com/104290279/189406363-2f275d7c-bbd9-4caf-92c3-adbfce8f3aef.gif)
 
 
 
