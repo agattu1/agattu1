@@ -31,6 +31,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 ![ddl](https://user-images.githubusercontent.com/104290279/189495923-378cc842-714d-4aa9-b393-b3b5ff7d20b9.png)
+![retry](https://user-images.githubusercontent.com/104290279/189496053-ca86a81f-743d-4d50-8564-18e3ed15e084.png)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)](https://github.com/agattu1/SQL-Database-GUI)
 **Database Application Model Youtube Content** [Banking Management Service](https://youtu.be/69JEpHb7kq4)
