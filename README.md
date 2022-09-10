@@ -29,30 +29,23 @@
 
 <h1 align="center">Repositories</h1>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 ![ddl](https://user-images.githubusercontent.com/104290279/189496217-62f41913-fc8a-4770-a174-07cde7d378a7.svg)
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)](https://github.com/agattu1/SQL-Database-GUI)
 ![sql](https://user-images.githubusercontent.com/104290279/189496239-138d8a3c-c240-464d-943b-2aeeebb5971c.svg)
 
 **Database Application Model Youtube Content** [Banking Management Service](https://youtu.be/69JEpHb7kq4)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Programming-Hardware-Software-Systems)](https://github.com/agattu1/Programming-Hardware-Software-Systems) 
 ![hw sw](https://user-images.githubusercontent.com/104290279/189496262-4bbae27e-cc5b-4b63-bfbf-4f70d27b9b0f.svg)
 
 **Game Youtube Content** [Missile Command Game Implemented](https://youtu.be/WrFHuJ73ank)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=CSV-File-Interpreter-GUI)](https://github.com/agattu1/CSV-File-Interpreter-GUI) 
 ![commscope](https://user-images.githubusercontent.com/104290279/189496272-1bc07d95-a7ca-4f89-b9c0-c93231708be6.svg)
-
 
 **Web App Youtube Content** 
 [File Analyzer Model in Python](https://youtu.be/Os7e-eFRlfg)
 
 [![Directory](https://img.youtube.com/vi/Os7e-eFRlfg/0.jpg)](https://www.youtube.com/watch?v=Os7e-eFRlfg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=GPU-Programming)](https://github.com/agattu1/GPU-Programming) 
 ![gpu prorgraming](https://user-images.githubusercontent.com/104290279/189496279-edd6a2fc-5e71-4cb3-a25f-26af314c32ae.svg)
 
 **GPU Youtube Content**
@@ -60,11 +53,10 @@
 
 [![GPU-Programming](https://img.youtube.com/vi/tdSqbbkS3Hc/0.jpg)](https://www.youtube.com/watch?v=tdSqbbkS3Hc)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Data-Structures-Algorithms)](https://github.com/agattu1/Data-Structures-Algorithms)
 ![dta structues and laogirhtms](https://user-images.githubusercontent.com/104290279/189496288-85c1f87e-cda2-4202-869d-aa429ac6520e.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Object-Oriented-Programming)](https://github.com/agattu1/Object-Oriented-Programming)
 ![OOOOP](https://user-images.githubusercontent.com/104290279/189496290-27a56eb9-9e6e-42fb-8899-21cc181430c3.svg)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Malware-Reverse-Engineering)](https://github.com/agattu1/Malware-Reverse-Engineering)
 ![malware](https://user-images.githubusercontent.com/104290279/189496296-eb13739f-932f-478a-a096-110a791d4387.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
