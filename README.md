@@ -32,6 +32,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 ![ddl](https://user-images.githubusercontent.com/104290279/189495923-378cc842-714d-4aa9-b393-b3b5ff7d20b9.png)
 ![retry](https://user-images.githubusercontent.com/104290279/189496053-ca86a81f-743d-4d50-8564-18e3ed15e084.png)
+![redo](https://user-images.githubusercontent.com/104290279/189496104-f3d94f16-8966-447c-a9a6-731696c80191.svg)
+
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=SQL-Database-GUI)](https://github.com/agattu1/SQL-Database-GUI)
