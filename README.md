@@ -29,7 +29,7 @@
 
 <h1 align="center">Repositories</h1>
 
-Please connect with me to clone these private repositories. 
+`Please connect with me to clone these private repositories. `
 
 ![ddl](https://user-images.githubusercontent.com/104290279/189496217-62f41913-fc8a-4770-a174-07cde7d378a7.svg)
 
