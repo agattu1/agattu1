@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire.</h3>
 
-- 🌱 I’m currently learning **Computer Architecture, Advanced Topics in Malware, & AI in Finance**
+- 🌱 I’m currently learning **Computer Architecture, Advanced Topics in Malware, & AI in Finance, and Prototyping Hardware**
 
 - 📝 I regularly write articles on [Medium](Medium)
 
