@@ -61,4 +61,13 @@
 
 ![malware](https://user-images.githubusercontent.com/104290279/189496296-eb13739f-932f-478a-a096-110a791d4387.svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=
+Asian-Parent-Alarm-System)](https://github.com/agattu1/Asian-Parent-Alarm-System)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
