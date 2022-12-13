@@ -29,7 +29,8 @@
 
 <h1 align="center">Repositories</h1>
 
-`Please connect with me to clone these private repositories. `
+Please connect with me to clone these private repositories. 
+--------------------------------------------------------------
 
 ![agattu1/Asian-Parent-Alarm-System - GitHub](https://gh-card.dev/repos/agattu1/Asian-Parent-Alarm-System.svg)
 
