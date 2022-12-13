@@ -42,6 +42,12 @@
 
 ![agattu1/AI-Based-Discovery-Innovation - GitHub](https://gh-card.dev/repos/agattu1/AI-Based-Discovery-Innovation.svg)
 
+`AI in Markets Youtube Coverage`
+
+<a href="https://www.youtube.com/watch?v=Yt0uvItl6UY">
+  <img src="https://img.youtube.com/vi/Yt0uvItl6UY/0.jpg" alt="Watch this video">
+</a>
+
 ![agattu1/Computer-Architecture - GitHub](https://gh-card.dev/repos/agattu1/Computer-Architecture.svg)
 
 ![sql](https://user-images.githubusercontent.com/104290279/189496239-138d8a3c-c240-464d-943b-2aeeebb5971c.svg)
