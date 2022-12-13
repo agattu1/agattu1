@@ -33,9 +33,16 @@
 
 ![agattu1/Asian-Parent-Alarm-System - GitHub](https://gh-card.dev/repos/agattu1/Asian-Parent-Alarm-System.svg)
 
-[![agattu1/AI-Based-Discovery-Innovation - GitHub](https://gh-card.dev/repos/agattu1/AI-Based-Discovery-Innovation.svg)](https://github.com/agattu1/AI-Based-Discovery-Innovation)
+`Asian Parent Alarm System Youtube Coverage`
 
-[![agattu1/Computer-Architecture - GitHub](https://gh-card.dev/repos/agattu1/Computer-Architecture.svg)](https://github.com/agattu1/Computer-Architecture)
+<a href="https://www.youtube.com/watch?v=2OwqN_LRpnY">
+  <img src="https://img.youtube.com/vi/2OwqN_LRpnY/0.jpg" alt="Watch this video">
+</a>
+
+
+![agattu1/AI-Based-Discovery-Innovation - GitHub](https://gh-card.dev/repos/agattu1/AI-Based-Discovery-Innovation.svg)
+
+![agattu1/Computer-Architecture - GitHub](https://gh-card.dev/repos/agattu1/Computer-Architecture.svg)
 
 ![sql](https://user-images.githubusercontent.com/104290279/189496239-138d8a3c-c240-464d-943b-2aeeebb5971c.svg)
 
@@ -63,7 +70,7 @@
 
 ![OOOOP](https://user-images.githubusercontent.com/104290279/189496290-27a56eb9-9e6e-42fb-8899-21cc181430c3.svg)
 
-[![agattu1/Advanced-Malware-Analysis - GitHub](https://gh-card.dev/repos/agattu1/Advanced-Malware-Analysis.svg)](https://github.com/agattu1/Advanced-Malware-Analysis)
+![agattu1/Advanced-Malware-Analysis - GitHub](https://gh-card.dev/repos/agattu1/Advanced-Malware-Analysis.svg)
 
 ![malware](https://user-images.githubusercontent.com/104290279/189496296-eb13739f-932f-478a-a096-110a791d4387.svg)
 
