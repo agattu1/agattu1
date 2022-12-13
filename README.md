@@ -31,7 +31,8 @@
 
 `Please connect with me to clone these private repositories. `
 
-![ddl](https://user-images.githubusercontent.com/104290279/189496217-62f41913-fc8a-4770-a174-07cde7d378a7.svg)
+![agattu1/Asian-Parent-Alarm-System - GitHub](https://gh-card.dev/repos/agattu1/Asian-Parent-Alarm-System.svg)
+
 
 ![sql](https://user-images.githubusercontent.com/104290279/189496239-138d8a3c-c240-464d-943b-2aeeebb5971c.svg)
 
@@ -61,12 +62,8 @@
 
 ![malware](https://user-images.githubusercontent.com/104290279/189496296-eb13739f-932f-478a-a096-110a791d4387.svg)
 
-![agattu1/Asian-Parent-Alarm-System - GitHub](https://gh-card.dev/repos/agattu1/Asian-Parent-Alarm-System.svg)]
+![ddl](https://user-images.githubusercontent.com/104290279/189496217-62f41913-fc8a-4770-a174-07cde7d378a7.svg)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
+When the repo is public, generate Cards using this https://gh-card.dev/, beofre applying privacy features.
