@@ -31,17 +31,6 @@
 
 `Please connect with me to clone these private repositories. `
 
-![agattu1/Asian-Parent-Alarm-System - GitHub](https://gh-card.dev/repos/agattu1/Asian-Parent-Alarm-System.svg)
-
-`Asian Parent Alarm System Youtube Coverage`
-
-<a href="https://www.youtube.com/watch?v=2OwqN_LRpnY">
-  <img src="https://img.youtube.com/vi/2OwqN_LRpnY/0.jpg" alt="Watch this video">
-</a>
-
-
-![agattu1/AI-Based-Discovery-Innovation - GitHub](https://gh-card.dev/repos/agattu1/AI-Based-Discovery-Innovation.svg)
-
 `AI in Markets Youtube Coverage`
 
 <a href="https://www.youtube.com/watch?v=Yt0uvItl6UY">
