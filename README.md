@@ -48,7 +48,8 @@
   <img src="https://img.youtube.com/vi/Yt0uvItl6UY/0.jpg" alt="Watch this video">
 </a>
 
-![agattu1/Computer-Architecture - GitHub](https://gh-card.dev/repos/agattu1/Computer-Architecture.svg)
+![ca](https://github.com/agattu1/agattu1/assets/104290279/6dfea142-da84-4e91-a276-7bc6cca111ba)
+
 
 ![sql](https://user-images.githubusercontent.com/104290279/189496239-138d8a3c-c240-464d-943b-2aeeebb5971c.svg)
 
