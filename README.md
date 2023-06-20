@@ -86,4 +86,4 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Digital-Hardware-Design)](https://github.com/agattu1/Digital-Hardware-Design)
 
-When the repo is public, generate Cards using this https://gh-card.dev/, beofre applying privacy features.
+When the repo is public, generate Cards using this https://gh-card.dev/, before applying privacy features.
