@@ -1,4 +1,4 @@
-# Anirudh KS Gattu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">
+                                 # Anirudh KS Gattu <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="30px">
 ----
 
 <p align="center">
