@@ -35,7 +35,7 @@
 
 <h1 align="center">GitHub Stats</h1>
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p>
 
 <p><img align="middle" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
 
