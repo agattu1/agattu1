@@ -22,6 +22,29 @@
 <h3 align="left">Checkout my TECH videos:</h3>
 <a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" /></a>
 
+
+
+
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=agattu1&label=Profile%20views&color=0e75b6&style=flat" alt="agattu1" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agattu1" alt="agattu1" /></a> </p>
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://medium.com/@anirudh1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirudh1" height="30" width="40" /></a>
+</p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=agattu1&show_icons=true&locale=en&layout=compact" alt="agattu1" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
+
+
 <!-- LANG/TOOLS DESCRIPTION ############################################################################################################################################################################### -->
 
 <h3 align="left">Languages and Tools:</h3>
