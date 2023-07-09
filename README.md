@@ -18,7 +18,7 @@
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Mé Expértise… </h1>
 
 <pre>
-```c
+```
 printf("Hello, World!");
 ```
 </pre>
