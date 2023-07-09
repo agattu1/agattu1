@@ -24,6 +24,41 @@
 - 📝 I regularly write articles on [Medium](Medium)
 - 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
 
+<!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
+
+<h3 align="left"> Class ANI </h3>
+
+ ```ruby
+ class ANI < Person
+   def initialize
+     @name = 'Anirudh Gattu'
+     @age = #changing
+     @work = [ 'Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
+     @education = [ 'Georgia Institute of Technology', 'LCHS' ]
+     @hobbies = [ 'Fútbol', 'Relegion', 'Organization' ]
+   end
+
+   def current_location
+     'Atlanta, GA, USA'
+   end
+
+   def next_locations
+     ['Duabi', 'Miami', 'Barcelona' , 'Hyderabad']
+   end
+
+   def currently
+     {
+       studying: [ 'Computer Engineering' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Cloud Infrastrcuture', 'Apple Wallet', 'Openstack Regions' ]
+      }
+   end
+ end
+ ```
+<!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
+
+
+
 <!-- CONNECT DESCRIPTION ############################################################################################################################################################################### -->
 
 <h3 align="left"> Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
@@ -59,39 +94,6 @@
 
 
 
-
-<!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
-
-<h3 align="left"> Class ANI </h3>
-
- ```ruby
- class ANI < Person
-   def initialize
-     @name = 'Anirudh Gattu'
-     @age = #changing
-     @work = [ 'Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
-     @education = [ 'Georgia Institute of Technology', 'LCHS' ]
-     @hobbies = [ 'Fútbol', 'Relegion', 'Organization' ]
-   end
-
-   def current_location
-     'Atlanta, GA, USA'
-   end
-
-   def next_locations
-     ['Duabi', 'Miami', 'Barcelona' , 'Hyderabad']
-   end
-
-   def currently
-     {
-       studying: [ 'Computer Engineering' ],
-       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Cloud Infrastrcuture', 'Apple Wallet', 'Openstack Regions' ]
-      }
-   end
- end
- ```
-<!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
 
 <h1 align="center">Repositories</h1>
 
