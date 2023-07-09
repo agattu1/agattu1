@@ -41,7 +41,7 @@
 
 <p><img align="middle" src="https://github-readme-stats.vercel.app/api/top-langs?username=agattu1&show_icons=true&locale=en&layout=compact" alt="agattu1" /></p>
 
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agattu1" alt="agattu1" /></a> </p>
+<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agattu1" alt="agattu1" /></a> </p>
 
 <!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
 
