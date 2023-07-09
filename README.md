@@ -4,10 +4,6 @@
 <hr style="border: 2px solid black;">
 
 
-hi <img src="https://i.gifer.com/76dA.gif" alt="sship" width="30px">
-
-
-
 <p align="center">
   <kbd>
         <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
