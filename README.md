@@ -20,7 +20,7 @@
 - 🌱 Currently learning `Computer Architecture`, `Advanced Topics in Malware`, `AI in Finance`, & `Prototyping Hardware`
 - <img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30"> Undergraduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, ATL</a>
 - 📝 I regularly write articles on [Medium](Medium)
-- Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
+- 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
 
 <!-- CONNECT DESCRIPTION ############################################################################################################################################################################### -->
 
