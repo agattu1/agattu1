@@ -59,9 +59,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
 
-
-<p align="middle"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=agattu1" alt="agattu1" /></a> </p>
-
 <!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
 
 <h3>How I'd define myself...literally</h3>
