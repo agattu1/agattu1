@@ -32,9 +32,7 @@
 <a href="https://agattu1.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agattu1.github.io/" height="30" width="40" /></a>
 
 <!-- YOUTUBE -->
-<a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" />
- <img src="https://komarev.com/ghpvc/?username=agattu1&label=Profile%20views&color=0e75b6&style=flat" alt="agattu1" 
-</a>
+<a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" /></a>
 </p>
 
 
