@@ -15,7 +15,7 @@
 <a href="https://linkedin.com/in/anig2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anig2" height="30" width="40" /></a>
 <a href="https://instagram.com/a.n.irudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.n.irudh" height="30" width="40" /></a>
 <a href="https://medium.com/@anirudhgattu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirudh1" height="30" width="40" /></a>
-<a href="/https://agattu1.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agattu1.github.io/" height="30" width="40" /></a>
+<a href="https://agattu1.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agattu1.github.io/" height="30" width="40" /></a>
 </p>
 
 <!-- CHECKOUT DESCRIPTION ############################################################################################################################################################################### -->
