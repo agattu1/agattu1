@@ -33,7 +33,7 @@
 
 <!-- YOUTUBE -->
 <a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" />
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=agattu1&label=Profile%20views&color=0e75b6&style=flat" alt="agattu1"  </p>
+ <img src="https://komarev.com/ghpvc/?username=agattu1&label=Profile%20views&color=0e75b6&style=flat" alt="agattu1" 
 </a>
 </p>
 
