@@ -4,7 +4,7 @@
   </kbd>
 </p>
 
-
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire.</h3>
