@@ -46,7 +46,7 @@
      @age = #changing
      @work = [ 'Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
      @education = [ 'Georgia Tech BS', 'LCHS' ]
-     @hobbies = [ 'Soccer', 'Relegion', 'Organization' ]
+     @hobbies = [ 'Fútbol', 'Relegion', 'Organization' ]
    end
 
    def current_location
