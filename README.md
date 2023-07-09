@@ -109,7 +109,7 @@
 
 [![GPU-Programming](https://img.youtube.com/vi/tdSqbbkS3Hc/0.jpg)](https://www.youtube.com/watch?v=tdSqbbkS3Hc)
 
-![dta structues and laogirhtms](https://user-images.githubusercontent.com/104290279/189496288-85c1f87e-cda2-4202-869d-aa429ac6520e.svg)
+<p align="middle">![dta structues and laogirhtms](https://user-images.githubusercontent.com/104290279/189496288-85c1f87e-cda2-4202-869d-aa429ac6520e.svg) </p>
 
 ![OOOOP](https://user-images.githubusercontent.com/104290279/189496290-27a56eb9-9e6e-42fb-8899-21cc181430c3.svg)
 
