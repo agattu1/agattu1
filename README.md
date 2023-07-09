@@ -1,8 +1,8 @@
-![matrix](https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg)
-
-<div style="border: 1px solid #1b5243; display: inline-block; padding: 5px;">
-  <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
-</div>
+<p align="center">
+  <kbd>
+    <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
+  </kbd>
+</p>
 
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
