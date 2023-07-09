@@ -25,9 +25,6 @@
 - 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
 
 <!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
-
-<h3 align="left"> Class ANI </h3>
-
  ```ruby
  class ANI < Person
    def initialize
