@@ -15,7 +15,7 @@
 
 <!-- Expertise ################################################################################################################################################################################################ -->
 
-<h1 align="left"> >Mé Expértise… </h1>
+<h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Mé Expértise… </h1>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
@@ -50,7 +50,7 @@
 
 <!-- STATS ############################################################################################################################################################################### -->
 
-<h1 align="center"> > GitHub Stats </h1>
+<h1 align="center"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> GitHub Stats </h1>
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p>
 
