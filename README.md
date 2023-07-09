@@ -3,7 +3,7 @@
 </div>
 <hr style="border: 2px solid black;">
 
-![GTxt](https://image.winudf.com/v2/image/Y29tLnN3eWZ0Lkdlb3JnaWFUZWNoX2ljb25fdHQwNnR0MjQ/icon.webp)
+![GTxt](https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG)
 
 
 <!-- Matrix ################################################################################################################################################################################################ -->
