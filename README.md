@@ -27,6 +27,39 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
 
+
+
+<h3>How I'd define myself...literally</h3>
+
+ ```ruby
+ class Sy < Person
+   def initialize
+     @name = 'Sy Rashid'
+     @age = 31
+     @work = [ 'MangoTree Dev', 'ARTSVP', 'Instamove', 'Le Wagon' ]
+     @education = [ 'Georgia Tech BS', 'HBX/HBS' 'Le Wagon', 'Georgia Tech MS' ]
+     @hobbies = [ 'Skydiving', 'Snowboarding', 'Tacos' ]
+   end
+
+   def current_location
+     'Burke, VA, USA'
+   end
+
+   def next_locations
+     ['Lisbon, PT', 'Barcelona, ESP']
+   end
+
+   def currently
+     {
+       studying: [ 'Network Security' ],
+       reading: [ 'Rails AntiPatterns', 'Deep Work' ],
+       tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
+      }
+   end
+ end
+ ```
+
+
 <h1 align="center">Repositories</h1>
 
 `Please connect with me to clone these private repositories. `
