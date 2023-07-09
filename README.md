@@ -16,7 +16,9 @@
 <!-- Expertise ################################################################################################################################################################################################ -->
 
 <h1 align="left"> >Mé Expértise… </h1>
+
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
+
 - 🌱 Currently learning `Computer Architecture`, `Advanced Topics in Malware`, `AI in Finance`, & `Prototyping Hardware`
 - <img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30"> Undergraduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, ATL</a>
 - 📝 I regularly write articles on [Medium](Medium)
