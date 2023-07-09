@@ -17,7 +17,8 @@
 
 <h1 align="left">Mé Expértise…</h1>
 
-- 🌱 I’m currently learning `Computer Architecture`, `Advanced Topics in Malware`, `AI in Finance`, & `Prototyping Hardware`
+- 🌱 Currently learning `Computer Architecture`, `Advanced Topics in Malware`, `AI in Finance`, & `Prototyping Hardware`
+- Undergraduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, Kattankulatur</a>.
 - 📝 I regularly write articles on [Medium](Medium)
 - Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire
 
