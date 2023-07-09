@@ -1,5 +1,9 @@
 ![matrix](https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg)
 
+<div style="border: 1px solid #ffffff; display: inline-block; padding: 5px;">
+  <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">Hosted here whether it be a good link, influential philosophy, or step by step on how I will build my empire.</h3>
