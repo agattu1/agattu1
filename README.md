@@ -4,8 +4,6 @@
   </kbd>
 </p>
 
-![mtrx](https://media.giphy.com/media/zRkeKuEz07wjjRNY7k/giphy.gif)
-
 
 
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
