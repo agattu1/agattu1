@@ -29,8 +29,10 @@
 <a href="https://linkedin.com/in/anig2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anig2" height="30" width="40" /></a>
 <a href="https://instagram.com/a.n.irudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.n.irudh" height="30" width="40" /></a>
 <a href="https://medium.com/@anirudhgattu2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@anirudh1" height="30" width="40" /></a>
+<a href="https://meritpages.com/agattu" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5c2e22952714e50bb80b2785/1550092274007-CSKPTTWI4M5DQXU74BVU/Merit_Mbadge_Blue_EPS.png" alt="agattu" height="30" width="40" /></a>
 <a href="https://agattu1.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agattu1.github.io/" height="30" width="40" /></a> <!-- YOUTUBE -->
 <a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" /></a>
+
 </p>
 
 
