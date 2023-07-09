@@ -27,7 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /></p>
 
-
+// CODE DESCRIPTION ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 <h3>How I'd define myself...literally</h3>
 
@@ -46,12 +46,12 @@
    end
 
    def next_locations
-     ['Lisbon, PT', 'Barcelona, ESP']
+     ['Duabi, Miami', 'Barcelona, HYD']
    end
 
    def currently
      {
-       studying: [ 'Network Security' ],
+       studying: [ 'Computer Engineering' ],
        reading: [ 'Rails AntiPatterns', 'Deep Work' ],
        tinkering: [ 'Google Pay', 'Apple Wallet', 'Pen Testing' ]
       }
