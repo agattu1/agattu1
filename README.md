@@ -3,7 +3,7 @@
 </div>
 <hr style="border: 2px solid black;">
 
-![GTxt](https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG)
+<img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30">
 
 
 <!-- Matrix ################################################################################################################################################################################################ -->
