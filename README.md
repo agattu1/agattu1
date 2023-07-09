@@ -1,6 +1,7 @@
 <p align="center">
   <kbd>
-    <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
+    <img src="![df5py0l-22160cb0-c8ec-42e6-bfde-1a59b802a4f7](https://github.com/agattu1/agattu1/assets/104290279/fec3d677-177a-42f7-b7a8-1c94c64b5193)
+.svg" alt="matrix">
   </kbd>
 </p>
 
