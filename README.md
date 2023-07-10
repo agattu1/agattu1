@@ -1,3 +1,6 @@
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+
 <div align="center">
   <h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px"> Anirudh KS Gattu   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px"> </h1>
 </div>
@@ -72,9 +75,6 @@
 <!-- CHECKOUT DESCRIPTION ############################################################################################################################################################################### -->
 
 <h3 align="left">Latest YouTube Videos: </h3>
-
-<!-- BEGIN YOUTUBE-CARDS -->
-<!-- END YOUTUBE-CARDS -->
 
 <!-- STATS ############################################################################################################################################################################### -->
 
