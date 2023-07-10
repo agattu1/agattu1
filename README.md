@@ -64,7 +64,6 @@
 <a href="https://meritpages.com/agattu" target="blank"><img align="center" src="https://images.squarespace-cdn.com/content/v1/5c2e22952714e50bb80b2785/1550092274007-CSKPTTWI4M5DQXU74BVU/Merit_Mbadge_Blue_EPS.png" alt="agattu" height="30" width="40" /></a>
 <a href="https://agattu1.github.io/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="https://agattu1.github.io/" height="30" width="40" /></a> <!-- YOUTUBE -->
 <a href="https://youtube.com/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="/playlist?list=PLBeSBEqIGL2whBtcNjqzMiiOVBAUadDD5" height="30" width="40" /></a>
-
 </p>
 
 
@@ -81,6 +80,8 @@
 [![Itachi Genjutsu Remake](https://ytcards.demolab.com/?id=tDIDYPHaXsQ&title=Itachi+Genjutsu+Remake&lang=en&timestamp=1662181855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=170 "Itachi Genjutsu Remake")](https://www.youtube.com/watch?v=tDIDYPHaXsQ)
 [![Database Application Model](https://ytcards.demolab.com/?id=69JEpHb7kq4&title=Database+Application+Model&lang=en&timestamp=1662172806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=192 "Database Application Model")](https://www.youtube.com/watch?v=69JEpHb7kq4)
 <!-- END YOUTUBE-CARDS -->
+
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/anirudh.g?sub_confirmation=1)
 
 <!-- STATS ############################################################################################################################################################################### -->
 
