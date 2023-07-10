@@ -3,10 +3,7 @@
 </div>
 <hr style="border: 2px solid black;">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B7F7AF&width=435&lines=athlete+%7C;engineer+%7C;believer+%7C)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F72D2D&center=true&vCenter=true&width=435&lines=athlete+%7C+engineer+%7C+believer)](https://git.io/typing-svg)
 
 <!-- Matrix ################################################################################################################################################################################################ -->
 <p align="center">
