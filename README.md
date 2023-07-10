@@ -13,8 +13,7 @@
 
 <!-- Expertise ################################################################################################################################################################################################ -->
 
-<h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> <p align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
-</p>
+<h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> align="center">   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
 </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E10000&center=true&vCenter=true&width=435&lines=M%C3%A9+Exp%C3%A9rtise%E2%80%A6;athlete+%7C+engineer+%7C+believer;thx+for+your+visit!+)](https://git.io/typing-svg)
