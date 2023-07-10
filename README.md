@@ -5,9 +5,8 @@
 
 [![Typing SVG]()](https://git.io/typing-svg)
 
-
 <p align="center">
-  <a <img font=Fira+Code&pause=1000&color=FF2E1A&center=true&vCenter=true&width=435&lines=athlete+%7C+engineer+%7C+believer;thx+for+your+visit!+%7C;Quick+fox+jumps+nightly+above+wizard+%7C"/></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
 </p>
 
 <!-- Matrix ################################################################################################################################################################################################ -->
