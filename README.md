@@ -9,8 +9,7 @@
 <p align="center">
   <kbd>
     
-        [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E17E3E&center=true&vCenter=true&width=435&lines=athlete+%7C+engineer+%7C+believer;thx+for+your+visit!+%7C;Quick+fox+jumps+nightly+above+wizard+%7C)](https://git.io/typing-svg)
-        <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
+    <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
         
   </kbd>
 </p>
