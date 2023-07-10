@@ -89,7 +89,7 @@
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> GitHub Stats </h1>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" /> <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=agattu1&show_icons=true&locale=en&layout=compact" alt="agattu1" /></p>
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p>
+<!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p> -->
 
 
 <details>
