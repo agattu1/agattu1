@@ -5,14 +5,11 @@
 
 [![Typing SVG]()](https://git.io/typing-svg)
 
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
-</p>
-
 <!-- Matrix ################################################################################################################################################################################################ -->
 <p align="center">
   <kbd>
         <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
+         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
   </kbd>
 </p>
 
