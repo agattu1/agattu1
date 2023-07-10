@@ -3,11 +3,13 @@
 </div>
 <hr style="border: 2px solid black;">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=E17E3E&center=true&vCenter=true&width=435&lines=athlete+%7C+engineer+%7C+believer;thx+for+your+visit!+%7C;Quick+fox+jumps+nightly+above+wizard+%7C)](https://git.io/typing-svg)
+
 
 <!-- Matrix ################################################################################################################################################################################################ -->
 <p align="center">
   <kbd>
-         <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=This+image+is+center-aligned&font=Fira%20Code&center=true&width=380&height=50"/></a>
+         <a href="https://git.io/typing-svg"><img src="font=Fira+Code&pause=1000&color=E17E3E&center=true&vCenter=true&width=435&lines=athlete+%7C+engineer+%7C+believer;thx+for+your+visit!+%7C;Quick+fox+jumps+nightly+above+wizard+%7C"/></a>
         <img src="https://user-images.githubusercontent.com/104290279/189438951-756aea1a-054a-4b73-979c-f1869abe57b0.svg" alt="matrix">
         
   </kbd>
