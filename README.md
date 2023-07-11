@@ -1,3 +1,6 @@
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <div align="center">
   <h1> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px"> Anirudh KS Gattu   <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px"> </h1>
 </div>
