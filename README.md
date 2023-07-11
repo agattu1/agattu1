@@ -104,7 +104,7 @@
 </details>
 
 ![Lingo Stats](https://github-readme-stats-three-phi-64.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut)
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" height="50" width="190" />
 
 
 Connect With me sometime
