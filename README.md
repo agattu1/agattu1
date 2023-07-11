@@ -104,8 +104,13 @@
 </details>
 
 ![Lingo Stats](https://github-readme-stats-three-phi-64.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut)
-<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="300" />
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="350" />
 
+<!-- STATS DONEEEEE ############################################################################################################################################################################### -->
+
+
+<!-- PROJECTS ############################################################################################################################################################################### -->
 ----
-
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Projects </h1>
+
+<!-- PROEJCTS DONE ############################################################################################################################################################################### -->
