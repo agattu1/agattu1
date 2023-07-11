@@ -126,7 +126,6 @@
 -
 
 
-
-Does thid out
+<h3 align="left"> Connect with me: </h3>
 
 
