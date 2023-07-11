@@ -106,11 +106,7 @@
 
 
 
-
-
-
-
-<img align="left" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+<h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> GitHub Stats </h1>
 
 
 
