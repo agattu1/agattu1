@@ -107,3 +107,10 @@
 
 
 
+
+
+
+<img align="left" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
+
+
+
