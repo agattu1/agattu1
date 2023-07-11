@@ -38,7 +38,7 @@
    end
 
    def next_locations
-     ['Duabi', 'Miami', 'Barcelona' , 'Hyderabad']
+     ['Duabi', 'Miami', 'Barcelona', 'Hyderabad']
    end
 
    def currently
