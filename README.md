@@ -104,3 +104,4 @@
 </details>
 
 <p>&nbsp<img align="left" src="https://github-readme-stats-three-phi-64.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut" /> </p>
+<img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="200" />
