@@ -92,7 +92,7 @@
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
 | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" width="500" /> | <img align="right" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" width="500" /> | 
 
-<p>&nbsp<img align="center" src="https://github-readme-stats-three-phi-64.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut" /> </p>
+<p>&nbsp<img align="left" src="https://github-readme-stats-three-phi-64.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut" /> </p>
 <img align="right" alt="PC GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif" width="190" />
 
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p> -->
