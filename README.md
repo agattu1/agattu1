@@ -113,6 +113,6 @@
 ----
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Projects </h1>
 
-[![Readme Card](https://github-readme-stats-three-phi-64.vercel.app/api/pin/?username=agattu1&repo=github-readme-stats)](https://github.com/agattu1/github-readme-stats)
+[![Readme Card](https://github-readme-stats-three-phi-64.vercel.app/api/pin/?username=agattu1&repo=Computer-Architecture)](https://github.com/agattu1/github-readme-stats)
 
 <!-- PROEJCTS DONE ############################################################################################################################################################################### -->
