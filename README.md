@@ -57,7 +57,7 @@
 
 <!-- CONNECT DESCRIPTION ############################################################################################################################################################################### -->
 
-<h3 align="left"> Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
+> <h3 align="left"> Connect with me: <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="32px"></h3>
 <p align="left">
 <a href="https://linkedin.com/in/anig2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anig2" height="30" width="40" /></a>
 <a href="https://instagram.com/a.n.irudh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="a.n.irudh" height="30" width="40" /></a>
@@ -71,7 +71,7 @@
 
 <!-- CHECKOUT DESCRIPTION ############################################################################################################################################################################### -->
 
-<h3 align="left">Latest YouTube Videos: </h3>
+> <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
