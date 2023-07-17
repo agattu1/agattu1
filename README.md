@@ -117,3 +117,6 @@
 [![Readme Card](https://github-readme-stats-three-phi-64.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
 
 <!-- PROEJCTS DONE ############################################################################################################################################################################### -->
+
+![](https://raw.githubusercontent.com/agattu1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/agattu1/github-stats/master/generated/overview.svg#gh-light-mode-only)
