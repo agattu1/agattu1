@@ -118,5 +118,5 @@
 
 <!-- PROEJCTS DONE ############################################################################################################################################################################### -->
 
-![](https://raw.githubusercontent.com/agattu1/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/agattu1/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
+![ANI's GitHub stats](https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true)
