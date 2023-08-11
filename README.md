@@ -91,7 +91,7 @@
 
 | 🔱 Streak                                                  | 〽️ Stat                                                   |
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" width="500" /> | <img align="right" src="https://github-readme-stats-git-master-agattu1.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
+| <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" width="500" /> | <img align="right" src="https://github-readme-stats-three-phi-64.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
 
 
 
