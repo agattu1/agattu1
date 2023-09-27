@@ -1,15 +1,15 @@
 <!--START_SECTION:activity-->
+
+
 <div align="center">
-<h1>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
-  Anirudh KS Gattu
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
-</h1>
-
-
-
+  <h1>
+    <img src="./Assets/Rocket.gif" alt="Rocket" width="30px">
+    Anirudh KS Gattu
+    <img src="./Assets/Rocket.gif" alt="Rocket" width="30px">
+  </h1>
 </div>
 <hr style="border: 2px solid black;">
+
 
 
 <!-- Matrix ################################################################################################################################################################################################ -->
