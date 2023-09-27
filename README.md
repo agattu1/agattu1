@@ -1,9 +1,9 @@
 <!--START_SECTION:activity-->
 <div align="center">
 <h1>
-  ![Rocket](https://github.com/agattu1/agattu1/raw/main/Assets/Rocket.gif)
+ ![Rocket](https://github.com/agattu1/agattu1/raw/main/Assets/Rocket.gif)
   Anirudh KS Gattu
-  ![Rocket](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif)
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
 </h1>
 
 
