@@ -2,7 +2,7 @@
 <div align="center">
 <h1>
   <img src="https://github.com/agattu1/agattu1/raw/main/Assets/Rocket.gif" alt="Rocket" width="30px">
-  Anirudh KS Gattu
+  Anirudh KS Gattu hi
   <img src="https://github.com/agattu1/agattu1/raw/main/Assets/Rocket.gif" alt="Rocket" width="30px">
 </h1>
 
