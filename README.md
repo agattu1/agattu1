@@ -1,6 +1,6 @@
 <!--START_SECTION:activity-->
 <div align="center">
-  <h1> <img src="https://github.com/agattu1/agattu1/blob/main/Assets/Rocket.gif" alt="Rocket" width="30px"> Anirudh KS Gattu   <img src="https://github.com/agattu1/agattu1/blob/main/Assets/Rocket.gif" alt="Rocket" width="30px"> </h1>
+  <h1> <img src="https://github.com/agattu1/blob/main/Assets/Rocket.gif" alt="Rocket" width="30px"> Anirudh KS Gattu   <img src="https://github.com/agattu1/blob/main/Assets/Rocket.gif" alt="Rocket" width="30px"> </h1>
 </div>
 <hr style="border: 2px solid black;">
 
