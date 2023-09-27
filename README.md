@@ -1,9 +1,9 @@
 <!--START_SECTION:activity-->
 <div align="center">
 <h1>
-  <img src="https://raw.githubusercontent.com/agattu1/agattu1/main/Assets/Hi.gif" alt="Rocket" width="30px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
   Anirudh KS Gattu
-  <img src="https://raw.githubusercontent.com/agattu1/agattu1/main/Assets/Hi.gif" alt="Rocket" width="30px">
+  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
 </h1>
 
 
