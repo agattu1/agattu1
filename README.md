@@ -99,12 +99,13 @@
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
 | <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" width="500" /> | <img align="right" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
 
+
+
+<!-- Tried these below -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
 <!-- <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=agattu1&" alt="agattu1" width="500" />  -->
-
 <!-- <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p> -->
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true&locale=en" alt="agattu1" /></p>
 
 <details>
  <summary><h2 align = "center"> 🧰 ANI's TECH Stack </h2>
