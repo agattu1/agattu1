@@ -3,7 +3,7 @@
 <h1>
   ![Rocket](https://github.com/agattu1/agattu1/raw/main/Assets/Rocket.gif)
   Anirudh KS Gattu
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
+  ![Rocket](https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Rocket.gif)
 </h1>
 
 
