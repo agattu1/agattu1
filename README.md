@@ -3,9 +3,9 @@
 
 <div align="center">
 <h1>
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
-  Anirudh KS Gattu ![hippo](https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif)
-  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">
+  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">]
+  Anirudh KS Gattu 
+  [<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" alt="Rocket" width="30px">]
 </h1>
 
 </div>
