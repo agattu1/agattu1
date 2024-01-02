@@ -80,12 +80,12 @@
 <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Automations for ABLE Alliance: System](https://ytcards.demolab.com/?id=GDlec1zTdCY&title=Automations+for+ABLE+Alliance%3A+System&lang=en&timestamp=1704231546&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=123 "Automations for ABLE Alliance: System")](https://www.youtube.com/watch?v=GDlec1zTdCY)
 [![Automations for ABLE Alliance Teaser](https://ytcards.demolab.com/?id=X8fhdHEBDCA&title=Automations+for+ABLE+Alliance+Teaser&lang=en&timestamp=1695355260&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=91 "Automations for ABLE Alliance Teaser")](https://www.youtube.com/watch?v=X8fhdHEBDCA)
 [![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
 [![Summer 2020](https://ytcards.demolab.com/?id=X-pV6gOPWL8&title=Summer+2020&lang=en&timestamp=1677572003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "Summer 2020")](https://www.youtube.com/watch?v=X-pV6gOPWL8)
 [![Dolby Inpull Effect #shotoniphone](https://ytcards.demolab.com/?id=ol3Lr48hSe0&title=Dolby+Inpull+Effect+%23shotoniphone&lang=en&timestamp=1672960350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Dolby Inpull Effect #shotoniphone")](https://www.youtube.com/watch?v=ol3Lr48hSe0)
 [![NLP Forecasting: Sentiment Analysis with TwitterAPI](https://ytcards.demolab.com/?id=Yt0uvItl6UY&title=NLP+Forecasting%3A+Sentiment+Analysis+with+TwitterAPI&lang=en&timestamp=1670914722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2692 "NLP Forecasting: Sentiment Analysis with TwitterAPI")](https://www.youtube.com/watch?v=Yt0uvItl6UY)
-[![Itachi Genjutsu Remake](https://ytcards.demolab.com/?id=tDIDYPHaXsQ&title=Itachi+Genjutsu+Remake&lang=en&timestamp=1662181855&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=170 "Itachi Genjutsu Remake")](https://www.youtube.com/watch?v=tDIDYPHaXsQ)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCvNxHSyk8tZWZ3wZCwPyQSg/?sub_confirmation=1">
