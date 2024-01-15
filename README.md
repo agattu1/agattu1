@@ -80,12 +80,12 @@
 <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Summer 2023](https://ytcards.demolab.com/?id=zWA9Uk-5ITg&title=Summer+2023&lang=en&timestamp=1705274007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Summer 2023")](https://www.youtube.com/watch?v=zWA9Uk-5ITg)
 [![Existing in Summer 2023](https://ytcards.demolab.com/?id=NzIP4neamEY&title=Existing+in+Summer+2023&lang=en&timestamp=1705269824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Existing in Summer 2023")](https://www.youtube.com/watch?v=NzIP4neamEY)
 [![LockWatch](https://ytcards.demolab.com/?id=3aXUkLU3v70&title=LockWatch&lang=en&timestamp=1704236474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "LockWatch")](https://www.youtube.com/watch?v=3aXUkLU3v70)
 [![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
 [![Summer 2020](https://ytcards.demolab.com/?id=X-pV6gOPWL8&title=Summer+2020&lang=en&timestamp=1677572003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "Summer 2020")](https://www.youtube.com/watch?v=X-pV6gOPWL8)
 [![Dolby Inpull Effect #shotoniphone](https://ytcards.demolab.com/?id=ol3Lr48hSe0&title=Dolby+Inpull+Effect+%23shotoniphone&lang=en&timestamp=1672960350&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=16 "Dolby Inpull Effect #shotoniphone")](https://www.youtube.com/watch?v=ol3Lr48hSe0)
-[![NLP Forecasting: Sentiment Analysis with TwitterAPI](https://ytcards.demolab.com/?id=Yt0uvItl6UY&title=NLP+Forecasting%3A+Sentiment+Analysis+with+TwitterAPI&lang=en&timestamp=1670914722&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=2692 "NLP Forecasting: Sentiment Analysis with TwitterAPI")](https://www.youtube.com/watch?v=Yt0uvItl6UY)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCvNxHSyk8tZWZ3wZCwPyQSg/?sub_confirmation=1">
