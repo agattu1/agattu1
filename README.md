@@ -80,8 +80,8 @@
 <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![HomePark 2 ATL](https://ytcards.demolab.com/?id=gziGSSa98v4&title=HomePark+2+ATL&lang=en&timestamp=1705287955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "HomePark 2 ATL")](https://www.youtube.com/watch?v=gziGSSa98v4)
 [![Summer 2023](https://ytcards.demolab.com/?id=zWA9Uk-5ITg&title=Summer+2023&lang=en&timestamp=1705274007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Summer 2023")](https://www.youtube.com/watch?v=zWA9Uk-5ITg)
-[![Existing in Summer 2023](https://ytcards.demolab.com/?id=NzIP4neamEY&title=Existing+in+Summer+2023&lang=en&timestamp=1705269824&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Existing in Summer 2023")](https://www.youtube.com/watch?v=NzIP4neamEY)
 [![LockWatch](https://ytcards.demolab.com/?id=3aXUkLU3v70&title=LockWatch&lang=en&timestamp=1704236474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "LockWatch")](https://www.youtube.com/watch?v=3aXUkLU3v70)
 [![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
 [![Summer 2020](https://ytcards.demolab.com/?id=X-pV6gOPWL8&title=Summer+2020&lang=en&timestamp=1677572003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "Summer 2020")](https://www.youtube.com/watch?v=X-pV6gOPWL8)
