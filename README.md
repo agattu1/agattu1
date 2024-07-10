@@ -115,13 +115,14 @@
 </details>
 
 ![Lingo Stats](https://github-readme-stats-flax-five.vercel.app/api/top-langs/?username=agattu1&&langs_count=9&count-private=true&layout=donut)
-<img align="right" alt="PC GIF" src="https://github.com/agattu1/agattu1.github.io/blob/main/Assets/aniMat.gif" width="415"/>
 
 <!-- STATS DONEEEEE ############################################################################################################################################################################### -->
 
 
 <!-- PROJECTS ############################################################################################################################################################################### -->
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Projects </h1>
+<img align="right" alt="PC GIF" src="https://github.com/agattu1/agattu1.github.io/blob/main/Assets/aniMat.gif" width="415"/>
+
 
 [![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
 
