@@ -80,12 +80,12 @@
 <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![July 15, 2024](https://ytcards.demolab.com/?id=W4xcaoPsEjk&title=July+15%2C+2024&lang=en&timestamp=1721079686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "July 15, 2024")](https://www.youtube.com/watch?v=W4xcaoPsEjk)
 [![Workday Lapse](https://ytcards.demolab.com/?id=N6QaZbheCEo&title=Workday+Lapse&lang=en&timestamp=1720224482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Workday Lapse")](https://www.youtube.com/watch?v=N6QaZbheCEo)
 [![ATL: Homepark 2.0](https://ytcards.demolab.com/?id=gziGSSa98v4&title=ATL%3A+Homepark+2.0&lang=en&timestamp=1705287955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "ATL: Homepark 2.0")](https://www.youtube.com/watch?v=gziGSSa98v4)
 [![Summer 2023](https://ytcards.demolab.com/?id=zWA9Uk-5ITg&title=Summer+2023&lang=en&timestamp=1705274007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Summer 2023")](https://www.youtube.com/watch?v=zWA9Uk-5ITg)
 [![LockWatch](https://ytcards.demolab.com/?id=3aXUkLU3v70&title=LockWatch&lang=en&timestamp=1704236474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "LockWatch")](https://www.youtube.com/watch?v=3aXUkLU3v70)
 [![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
-[![Summer 2020](https://ytcards.demolab.com/?id=X-pV6gOPWL8&title=Summer+2020&lang=en&timestamp=1677572003&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=34 "Summer 2020")](https://www.youtube.com/watch?v=X-pV6gOPWL8)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCvNxHSyk8tZWZ3wZCwPyQSg/?sub_confirmation=1">
