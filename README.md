@@ -80,12 +80,12 @@
 <h3 align="left">Latest YouTube Videos: </h3>
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![🍋‍🟩🚲](https://ytcards.demolab.com/?id=GXyYUqYspQ8&title=%F0%9F%8D%8B%E2%80%8D%F0%9F%9F%A9%F0%9F%9A%B2&lang=en&timestamp=1725204756&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=13 "🍋‍🟩🚲")](https://www.youtube.com/watch?v=GXyYUqYspQ8)
 [![#sunsetMixer](https://ytcards.demolab.com/?id=W4xcaoPsEjk&title=%23sunsetMixer&lang=en&timestamp=1721079686&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=17 "#sunsetMixer")](https://www.youtube.com/watch?v=W4xcaoPsEjk)
 [![Workday Lapse](https://ytcards.demolab.com/?id=N6QaZbheCEo&title=Workday+Lapse&lang=en&timestamp=1720224482&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=60 "Workday Lapse")](https://www.youtube.com/watch?v=N6QaZbheCEo)
 [![ATL: Homepark 2.0](https://ytcards.demolab.com/?id=gziGSSa98v4&title=ATL%3A+Homepark+2.0&lang=en&timestamp=1705287955&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=68 "ATL: Homepark 2.0")](https://www.youtube.com/watch?v=gziGSSa98v4)
 [![Summer 2023](https://ytcards.demolab.com/?id=zWA9Uk-5ITg&title=Summer+2023&lang=en&timestamp=1705274007&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=529 "Summer 2023")](https://www.youtube.com/watch?v=zWA9Uk-5ITg)
 [![LockWatch](https://ytcards.demolab.com/?id=3aXUkLU3v70&title=LockWatch&lang=en&timestamp=1704236474&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=398 "LockWatch")](https://www.youtube.com/watch?v=3aXUkLU3v70)
-[![Lee Village Summer](https://ytcards.demolab.com/?id=vIgx6GQS6BQ&title=Lee+Village+Summer&lang=en&timestamp=1677640948&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=144 "Lee Village Summer")](https://www.youtube.com/watch?v=vIgx6GQS6BQ)
 <!-- END YOUTUBE-CARDS -->
 
 <a href="https://www.youtube.com/channel/UCvNxHSyk8tZWZ3wZCwPyQSg/?sub_confirmation=1">
