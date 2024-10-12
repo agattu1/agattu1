@@ -19,7 +19,7 @@
 </p>
 
 <!-- Expertise ################################################################################################################################################################################################ -->
-<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=M%C3%A9+Exp%C3%A9rtise%E2%80%A6;    ⚽athlete+%7C+🔺engineer+%7C+☁️believer;thx+for+your+visit!;&font=Fira%20Code&center=true&width=380&height=30"/></a>
+<h1 align="center"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=M%C3%A9+Exp%C3%A9rtise%E2%80%A6;    a⚽athlete+%7C+🔺engineer+%7C+☁️believer;thx+for+your+visit!;&font=Fira%20Code&center=true&width=380&height=30"/></a>
 </h1>
 
 > ### **Hello world!** &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
