@@ -132,7 +132,7 @@
 
 [![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
 
-[![Readme1 Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
+[![Readme1 Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=Ditto.live-Demo-Apps)](https://github.com/agattu1/github-readme-stats)
 
 [![Readme2 Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
 
