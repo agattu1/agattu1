@@ -136,6 +136,11 @@
 
 [![Readme1 Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
+
+
 <!-- PROEJCTS DONE ############################################################################################################################################################################### -->
 
 
