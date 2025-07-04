@@ -129,11 +129,9 @@
 <h1 align="left"> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px"> Projects </h1>
 <img align="right" alt="PC GIF" src="https://github.com/agattu1/agattu1.github.io/blob/main/Assets/aniMat.gif" width="415"/>
 
-
-[![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
-[![Readme11 Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Ditto%2Elive-Demo-Apps)](https://github.com/agattu1/Ditto.live-Demo-Apps)
-[![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
-
+[![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis&show_owner=true)](https://github.com/agattu1/CHATGPT3-Analysis)
+[![Readme11 Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=Ditto%2Elive-Demo-Apps&show_owner=true)](https://github.com/agattu1/Ditto.live-Demo-Apps)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing&show_owner=true)](https://github.com/agattu1/Ubiquitous-Computing)
 
 <!-- PROEJCTS DONE ############################################################################################################################################################################### -->
 
