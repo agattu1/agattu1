@@ -41,7 +41,7 @@
    def initialize
      @name = 'Anirudh Gattu'
      @age = #changing
-     @work = [ 'Fidelity Investments','Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
+     @work = [ 'GT', 'Fidelity Investments','Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
      @education = [ 'Georgia Institute of Technology', 'LCHS' ]
      @hobbies = [ 'Fútbol', 'Relegion', 'Organization' ]
    end
@@ -58,7 +58,7 @@
      {
        studying: [ 'Computer Engineering' ],
        reading: [ 'Rails AntiPatterns', 'Deep Work' ],
-       tinkering: [ 'Cloud Infrastrcuture', 'Apple Wallet', 'Openstack Regions' ]
+       tinkering: [ 'Cloud Infrastrcuture', 'Apple Wallet', 'Full-Stack DEV' ]
       }
    end
  end
