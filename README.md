@@ -34,6 +34,7 @@
 - <img src="https://emoji.discadia.com/emojis/bb038bfe-bddd-440a-b90c-20c5ee041cb4.PNG" alt="GTxt" width="30"> Graduate Researcher @ <a href="https://meritpages.com/agattu"> <b>Georgia Institute of Technology</b>, ATL</a>
 - 📝 I regularly write articles on [Medium](Medium)
 - 🔭 Hosted here whether it be a good link, influential philosophy, or step by step on how I will build out an inclusive empire
+- ""Learn something new every day, and lessen the suffering of others...you'll be surprised how far that gets you" - Neil DeGrasse Tyson"
 
 <!-- CODE DESCRIPTION ############################################################################################################################################################################### -->
  ```ruby
@@ -41,7 +42,7 @@
    def initialize
      @name = 'Anirudh Gattu'
      @age = #changing
-     @work = [ 'GT', 'Fidelity Investments','Garmin Int.', 'CommScope', 'Georgia Tech VIP', 'Soccer Trainer' ]
+     @work = [ 'GT', 'Fidelity Investments','Garmin Int.', 'CommScope', 'Georgia Tech VIP', '⚽ Chef' ]
      @education = [ 'Georgia Institute of Technology', 'LCHS' ]
      @hobbies = [ 'Fútbol', 'Relegion', 'Organization' ]
    end
