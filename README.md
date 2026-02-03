@@ -131,7 +131,6 @@
 <img align="right" alt="PC GIF" src="https://github.com/agattu1/agattu1.github.io/blob/main/Assets/aniMat.gif" width="415"/>
 
 [![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=CHATGPT3-Analysis)](https://github.com/agattu1/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
 [![Readme Card](https://github-readme-stats-flax-five.vercel.app/api/pin/?username=agattu1&repo=Ubiquitous-Computing)](https://github.com/agattu1/Ubiquitous-Computing)
 
 
