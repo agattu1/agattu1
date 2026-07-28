@@ -104,7 +104,7 @@
 
 | 🔱 Streak                                                  | 〽️ Stat                                                   |
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| <img align="left" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> |<img align="right" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
+| <img align="left" src="https://streak-stats.demolab.com/?user=agattu1&v=20260728" alt="agattu1" width="500" /> |<img align="right" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
 
 
 
