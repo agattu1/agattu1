@@ -104,9 +104,8 @@
 
 | 🔱 Streak                                                  | 〽️ Stat                                                   |
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| <img align="left" src="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" width="500" /> | <img align="right" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
+| <img align="left" src="https://git.io/streak-stats"> alt="GitHub Streak" width="500" /> | <img align="right" src="https://github-readme-stats-flax-five.vercel.app/api?username=agattu1&show_icons=true&include_all_commits=true&count_private=true" alt="agattu1" width="500" /> | 
 
-<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 <!-- Tried these below -->
 <!--[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats) -->
